@@ -1,0 +1,56 @@
+# Proprietary License — All Rights Reserved
+
+Copyright (c) 2026 TUK QUANTUM INTELLIGENCE SYSTEMS S.L.. All rights reserved.
+
+**Copyright owner.** The sole copyright owner of the Licensed Work is **TUK QUANTUM INTELLIGENCE SYSTEMS S.L.**, Spanish company, NIF **B26797720**, registered office at Via Hispanidad 152, 50017 Zaragoza (Local 1+2), Spain (the “**Licensor**”).
+
+**Trade name.** “tukquantum” is a trade name / brand / account handle of the Licensor. It does **not** identify a natural person as copyright owner, licensor, seller, or merchant of record.
+
+**Hosting ≠ title.** Private hosting under any GitHub account (including historical `tukquantum-pixel`) or public hosting under organisation `TUK-Quantum-Intelligence-Systems-S-L` is operational only and does **not** transfer or dilute copyright.
+
+## Licensed Work
+
+Materials in this public repository and the separate **private** FractalIA Meta product sold by the Licensor, unless a file states otherwise (the “**Work**”).
+
+## No open-source grant
+
+This Work is **not** licensed under MIT, Apache-2.0, BSD, GPL, or any other OSI/FSF open-source license.
+Presence of third-party dependencies under their own licenses does **not** relicense this Work.
+
+## Default (no paid license)
+
+Without a valid Commercial License / Order Form tied to a paid SKU in `docs/CATALOG.md` and `COMMERCIAL.md`:
+
+- You may view this public storefront/teaser for evaluation.
+- You may **not** copy, modify, distribute, sublicense, host, or use the **private** FractalIA Meta Work.
+- Public GitHub visibility of *this* E2 tree does **not** grant access to the private product.
+
+## Paid licensees
+
+If you purchased a Live SKU listed in `docs/CATALOG.md` (access A1–A4, renew B1–B4, subscription C1–C3, and/or add-ons D* except quote-only D5) and received a written grant / private GitHub invite from the Licensor:
+
+- Rights are limited to the SKU seat count, term, billing type (one-time / renew / subscription), and update window in `TERMS.md` and the Order / receipt.
+- Ownership of the Work remains exclusively with the Licensor.
+- You may **not** redistribute the meta as your own product, white-label, or commercial embed without the matching paid add-on / tier (A3/A4/D3/D5 as applicable — see `COMMERCIAL.md`).
+- Do **not** mix A* (one-time) and C* (subscription) for the same Buyer without Licensor written approval.
+
+## Trademark
+
+No trademark or trade-name license is granted (including “FractalIA”, “TITAN”, “tukquantum”, and logos), except the limited right to refer factually to the product name while exercising a paid licence.
+
+## Termination
+
+Breach ends rights automatically. Licensor may revoke private access. Surviving: ownership, confidentiality of secrets, disclaimer.
+
+## Disclaimer; law; forum
+
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+Liability is limited to the maximum permitted by applicable law.
+**Governing law:** laws of Spain.
+**Forum:** exclusive jurisdiction of the courts of the Licensor’s domicile in Spain, **without prejudice to mandatory consumer forum and protection rules** (including TRLGDCU and applicable EU consumer law).
+
+## Contact
+
+Sales / licensing: sales@tukquantum.com  
+Catalog: `docs/CATALOG.md` · Terms: `TERMS.md` · Commercial grant: `COMMERCIAL.md`  
+Buy: https://tukquantum.com/fractalia
