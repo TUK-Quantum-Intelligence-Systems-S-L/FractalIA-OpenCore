@@ -27,4 +27,4 @@ The full system (private product, paid SKUs) is **not** mirrored here.
 
 See [`LICENSE`](LICENSE), [`COMMERCIAL.md`](COMMERCIAL.md), [`TERMS.md`](TERMS.md), [`NOTICE`](NOTICE).
 
-© 2026 TUK QUANTUM INTELLIGENCE SYSTEMS S.L.. All rights reserved.
+© 2026 TUK QUANTUM INTELLIGENCE SYSTEMS S.L. All rights reserved.
